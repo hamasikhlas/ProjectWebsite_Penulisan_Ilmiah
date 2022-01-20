@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+
+<!-- Workshop XML, android.xml -->
+
+<ANDROID>
+	<OS>
+		<NAMA>Astro</NAMA>
+		<RILIS>23 september 2008</RILIS>
+		<APILEVEL>API Level 1</APILEVEL>
+		<VERSI>1.0</VERSI>
+		<LOGO>Logo_Astro.jpg</LOGO>
+	</OS>
+	<OS>
+		<NAMA>Bender<NAMA>
+		<RILIS>9 Februari 2009</RILIS>
+		<APILEVEL>API Level 2</APILEVEL>
+		<VERSI>1.1</VERSI>
+		<LOGO>Logo_Bender.jpg</LOGO>
+	</OS>
+	<OS>
+		<NAMA>Cupcake<NAMA>
+		<RILIS>30 April 2009</RILIS>
+		<APILEVEL>API Level 3</APILEVEL>
+		<VERSI>1.5</VERSI>
+		<LOGO>Logo_Cupcake.jpg</LOGO>
+	</OS>
+	<OS>
+		<NAMA>Donut<NAMA>
+		<RILIS>15 september 2009</RILIS>
+		<APILEVEL>API Level 4</APILEVEL>
+		<VERSI>1.6</VERSI>
+		<LOGO>Logo_Donut.jpg</LOGO>
+	</OS>
+	<OS>
+		<NAMA>Eclair<NAMA>
+		<RILIS>26 Oktober 2009</RILIS>
+		<APILEVEL>API Level 5 - API Level 7</APILEVEL>
+		<VERSI>2.0 - 2.1</VERSI>
+		<LOGO>Logo_Eclair.jpg</LOGO>
+	</OS>
+	<OS>
+		<NAMA>Froyo (Frozen Yogurt)<NAMA>
+		<RILIS>20 Mei 2010</RILIS>
+		<APILEVEL>API Level 8</APILEVEL>
+		<VERSI>1.5</VERSI>
+		<LOGO>Logo_Froyo.jpg</LOGO>
+	</OS>
+	<OS>
+		<NAMA>Gingerbread<NAMA>
+		<RILIS>6 Desember 2010</RILIS>
+		<APILEVEL>API Level 9 - API Level 10</APILEVEL>
+		<VERSI>2.3 - 2.3.2</VERSI>
+		<LOGO>Logo_Gingerbread.jpn</LOGO>
+	</OS>
+	<OS>
+		<NAMA>Honeycomb<NAMA>
+		<RILIS>22 Februari 2011</RILIS>
+		<APILEVEL>API Level 11 - API Level 13</APILEVEL>
+		<VERSI>3.0 - 3.2.6</VERSI>
+		<LOGO>Logo_Honeycomb.jpn</LOGO>
+	</OS>
+	<OS>
+		<NAMA>Ice Cream Sandwich (ICS)<NAMA>
+		<RILIS>19 Oktober 2011</RILIS>
+		<APILEVEL>API Level 14 - API Level 15</APILEVEL>
+		<VERSI>4.1 - 4.3</VERSI>
+		<LOGO>Logo_ICS.jpn</LOGO>
+	</OS>
+	<OS>
+		<NAMA>Jelly Bean<NAMA>
+		<RILIS>9 Juli 2012</RILIS>
+		<APILEVEL>API Level 16 - API Level 18</APILEVEL>
+		<VERSI>4.1 - 4.3</VERSI>
+		<LOGO>Logo_Jelly Bean.jpn</LOGO>
+	</OS>
+	<OS>
+		<NAMA>KitKat<NAMA>
+		<RILIS>31 Oktober 2013</RILIS>
+		<APILEVEL>API Level 19</APILEVEL>
+		<VERSI>4.4</VERSI>
+		<LOGO>Logo_KitKat.jpn</LOGO>
+	</OS>
+</ANDROID>
+		
